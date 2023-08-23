@@ -2,12 +2,13 @@
 
 
 
-- 🔭 Estava fazendo Estagio na CompassUol, Automação de testes em Java Rest-Assured
+- 🔭 Estava fazendo Estagio na CompassUol
+- 🧪 Automação de testes em Java Rest-Assured
 - 🌱 Estudando Kotlin e Robot Framework
 - 👨‍🎓 Aluno de Ciência da Computação na UPF
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocunha2030&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leocunha2030&layout=compact&theme=dark)](https://github.com/leocunha2030)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leocunha2030&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leocunha2030&layout=compact&theme=dark)](https://github.com/leocunha2030)
 
 ##
 
