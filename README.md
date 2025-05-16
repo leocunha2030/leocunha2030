@@ -4,8 +4,9 @@
 
 - 🔭 Estava fazendo Estagio na CompassUol
 - 🧪 Automação de testes em Java Rest-Assured
-- 🌱 Estudando Kotlin e Robot Framework
-- 👨‍🎓 Aluno de Ciência da Computação na UPF
+- 🌱 Estudando Unreal Engine
+- 👨‍🎓 Ex Aluno de Ciência da Computação na UPF
+- 👨‍🎓 Cursando Game Development na Fiap
 
 ##
 
